@@ -1,0 +1,26 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.conteiner {
+	border: 2px dashed black;
+	width: 350px;
+	padding: 0 10px 10px 5px;
+	line-height: 40px;
+}
+.func {
+	font-size: 140%;
+	font-style: italic;
+}
+.func sub {
+	color: blue;
+	font-size: 15px;
+	font-style: normal;
+
+}
+.func sup {
+	color: red;
+	font-size: 15px;
+	font-style: normal;
+}
